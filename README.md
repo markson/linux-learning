@@ -1,0 +1,2 @@
+- [ ] Open a vps in SG and test pony sending mail via ipv7 enabled
+- [ ] [core-on-do](https://github.com/ibuildthecloud/coreos-on-do)
